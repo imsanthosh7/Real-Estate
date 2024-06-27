@@ -23,7 +23,7 @@ const Footer = () => {
                                 <img className='w-3' src={messsageicon} alt="" />
                             </div>
                             <div>
-                                <input className='bg-gray1 outline-none border-none text-sm text-white w-[270px]  md:w-[280px]' type="text" placeholder='Enter your Email' />
+                                <input className='bg-gray1  outline-none border-none text-sm  text-white w-[270px]  md:w-[280px]' type="email" placeholder='Enter your Email' />
                             </div>
                             <div className=''>
                                 <img className='w-6 cursor-pointer' src={sendicon} alt="" />
